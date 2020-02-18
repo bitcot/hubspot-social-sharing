@@ -1,0 +1,17 @@
+{
+  "content_tags" : [ {
+    "name" : "SOCIAL",
+    "source" : "USER"
+  } ],
+  "css_assets" : [ ],
+  "external_js" : [ ],
+  "extra_classes" : "",
+  "global" : false,
+  "host_template_types" : [ "PAGE" ],
+  "js_assets" : [ ],
+  "master_language" : "en",
+  "other_assets" : [ ],
+  "smart_type" : "NOT_SMART",
+  "module_id" : 25081823229,
+  "is_available_for_new_content" : true
+}

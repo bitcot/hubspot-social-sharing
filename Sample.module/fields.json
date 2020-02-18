@@ -1,0 +1,75 @@
+[ {
+  "id" : "0fa31c01-bc48-1870-d4c2-47669872633a",
+  "name" : "show_modules_position",
+  "label" : "Show Modules Position",
+  "required" : true,
+  "locked" : false,
+  "display" : "radio",
+  "choices" : [ [ "1", "Static Left" ], [ "2", "Static Right" ], [ "3", "inline" ] ],
+  "type" : "choice",
+  "default" : "3"
+}, {
+  "id" : "ef690adc-3664-2924-165c-af1f73eb7964",
+  "name" : "facebook",
+  "label" : "Facebook",
+  "required" : true,
+  "locked" : false,
+  "type" : "boolean",
+  "default" : true
+}, {
+  "id" : "a4be9d24-5fa2-e5a4-9744-10b3d1b27670",
+  "name" : "twitter",
+  "label" : "Twitter",
+  "required" : true,
+  "locked" : false,
+  "type" : "boolean",
+  "default" : true
+}, {
+  "id" : "5b2d31f5-5912-962a-b6d3-25a2c1030739",
+  "name" : "linkedin",
+  "label" : "Linkedin",
+  "required" : true,
+  "locked" : false,
+  "type" : "boolean",
+  "default" : true
+}, {
+  "id" : "bd29a98c-ab0a-3f32-871d-1fc414d5409c",
+  "name" : "pinterest",
+  "label" : "Pinterest",
+  "required" : true,
+  "locked" : false,
+  "type" : "boolean",
+  "default" : true
+}, {
+  "id" : "c5226903-d539-ee42-ba38-7b5caadf9e0e",
+  "name" : "email",
+  "label" : "Email",
+  "required" : true,
+  "locked" : false,
+  "type" : "boolean",
+  "default" : true
+}, {
+  "id" : "c3866bfb-2ac2-1b7c-14ba-30bf794277f8",
+  "name" : "telegram",
+  "label" : "Telegram",
+  "required" : true,
+  "locked" : false,
+  "type" : "boolean",
+  "default" : true
+}, {
+  "id" : "8aa19687-25b3-aaf5-60a8-be25ee443bdd",
+  "name" : "whatsapp",
+  "label" : "Whatsapp",
+  "required" : true,
+  "locked" : false,
+  "type" : "boolean",
+  "default" : true
+}, {
+  "id" : "7b2ae1b7-608d-98a6-d928-528399ecd01d",
+  "name" : "is_show_more_option_",
+  "label" : "Is show More Option ?",
+  "required" : true,
+  "locked" : false,
+  "type" : "boolean",
+  "default" : true
+} ]

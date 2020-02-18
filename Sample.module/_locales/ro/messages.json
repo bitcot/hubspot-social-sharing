@@ -1,0 +1,157 @@
+{
+  "email.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "email.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "email.label" : {
+    "message" : "Boolean",
+    "description" : null,
+    "placeholders" : null
+  },
+  "facebook.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "facebook.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "facebook.label" : {
+    "message" : "Boolean",
+    "description" : null,
+    "placeholders" : null
+  },
+  "is_show_more_option_.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "is_show_more_option_.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "is_show_more_option_.label" : {
+    "message" : "Boolean",
+    "description" : null,
+    "placeholders" : null
+  },
+  "linkedin.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "linkedin.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "linkedin.label" : {
+    "message" : "Boolean",
+    "description" : null,
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Social Sharing Post",
+    "description" : null,
+    "placeholders" : null
+  },
+  "pinterest.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "pinterest.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "pinterest.label" : {
+    "message" : "Boolean",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_modules_position.choices.value 1" : {
+    "message" : "Label 1",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_modules_position.choices.value 2" : {
+    "message" : "Label 2",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_modules_position.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_modules_position.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_modules_position.label" : {
+    "message" : "Choice",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_modules_position.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "telegram.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "telegram.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "telegram.label" : {
+    "message" : "Boolean",
+    "description" : null,
+    "placeholders" : null
+  },
+  "twitter.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "twitter.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "twitter.label" : {
+    "message" : "Boolean",
+    "description" : null,
+    "placeholders" : null
+  },
+  "whatsapp.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "whatsapp.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "whatsapp.label" : {
+    "message" : "Boolean",
+    "description" : null,
+    "placeholders" : null
+  }
+}
